@@ -1,0 +1,5 @@
+export const GET_LATEST= 'GET_LATEST';
+export const GET_OTHER = 'GET_OTHER';
+export const GET_ARTICLE = 'GET_ARTICLE';
+export const HANDLE_ARTICLE_LIKES = 'HANDLE_ARTICLE_LIKES';
+export const CLEAR_ARTICLE_DATA = 'CLEAR_ARTICLE_DATA';
